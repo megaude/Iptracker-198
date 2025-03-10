@@ -35,7 +35,7 @@ class IPAddressLocator:
 
           Simple IP Address locator
         
-        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - Deadpool2000 """ + self.Y + """----""" + self.R + """<<""")
+        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - megaude """ + self.Y + """----""" + self.R + """<<""")
 
     def m3(self):
         try:
